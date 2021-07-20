@@ -1,7 +1,7 @@
 There are several versions of the MIPS ISA and the one which we will be making use of in our assignments is a subset of MIPS32 Release 3. In particular our simulator supports only the MIPS CPU core instructions and these instructions are sufficient to do all the assignments. Please refer the document MIPS Architecure For Programmers, Volume I-A: Introduction to the MIPS 32 Architecture for more details.    
 
 
-<img src="images/MIPSISAVersions.gif>
+<img src="images/MIPSISAVersions.gif">
 
 
 **Structure of an Assembly Language Program**  
