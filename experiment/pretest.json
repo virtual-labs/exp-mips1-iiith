@@ -1,0 +1,38 @@
+[
+{"question":"1.  In MIPS we can increment the contents of a memory location in a single instruction.",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"a"},
+
+{"question":"2. The maximum size of an immediate constant in add instruction is 0xFFFFFF.",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"c"},
+
+{"question":"3. Register $r0 always contains a zero value.",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"a"}, 
+
+{"question":"4. ADDIU can generate a overflow trap.",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"c"},
+
+{"question":"3. We can use LB instruction to load a signed byte into a register and cast the signed byte to a signed word.",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"a"}, 
+
+
+]
