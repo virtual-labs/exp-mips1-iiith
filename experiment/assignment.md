@@ -1,24 +1,24 @@
 1. Write MIPS Assembly Language Programs computing the following expressions or program segments.
 
-    1. Variables are of type unsigned integers and word sized. Also the variables b, c, d and e are initialized to values 10, 20, 30 and 40 respectively.  
+   1. Variables are of type unsigned integers and word sized. Also the variables b, c, d and e are initialized to values 10, 20, 30 and 40 respectively.  
 
         a = (b + c) - (d + e)  
 
-    2. Variables are of type signed integers and half-word sized." "Variables b, c, d and e are initialized to values -10, 20, 30 and -40 respectively.  
+   2. Variables are of type signed integers and half-word sized." "Variables b, c, d and e are initialized to values -10, 20, 30 and -40 respectively.  
 
-        a = (b + c) - (d + e)  
+       a = (b + c) - (d + e)  
 
-    3. Variables are of type unsigned integers and word sized. Also the variables b, c, d and e are initialized to values 10, 20, 30 and 40 respectively.  
+   3. Variables are of type unsigned integers and word sized. Also the variables b, c, d and e are initialized to values 10, 20, 30 and 40 respectively.  
 
-        b = a + 256 .  
-        c = b - 0xfffff  
-        a = (b + c) - (d + e + 0xffffe)  
+       b = a + 256 .  
+       c = b - 0xfffff  
+       a = (b + c) - (d + e + 0xffffe)  
 
-    4. Dot Product of two signed half-word sized integer array vectors A and B each of dimension 5. The resultant dot-product value should reside in the register $r1 by the end of computation.  
+   4. Dot Product of two signed half-word sized integer array vectors A and B each of dimension 5. The resultant dot-product value should reside in the register $r1 by the end of computation.  
 
-    5. A and B are two unsigned word-sized integer array vectors each of size dimension 5. Compute the following expression.  
+   5. A and B are two unsigned word-sized integer array vectors each of size dimension 5. Compute the following expression.  
 
-        CONV = A[0] * B[4] + A[1] * B[3] + A[2] * B[2] + A[3] * B[1] + A[4] * B[0]  
+      CONV = A[0] * B[4] + A[1] * B[3] + A[2] * B[2] + A[3] * B[1] + A[4] * B[0]  
 
  
 
