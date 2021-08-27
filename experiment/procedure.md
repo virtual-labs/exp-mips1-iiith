@@ -2,10 +2,10 @@
 
 The following are the Assembly Language Directives that are supported by the current version of the MaxSim. More directives would be supported later.  
 
-    .text  
-    .data  
-    .word  
-    .space  
+  .text  
+  .data  
+  .word  
+  .space  
 
 **Alignment Assumptions**  
 
