@@ -1,0 +1,16 @@
+[
+{"question":"1. ADDIU can generate a overflow trap.",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"c"},
+
+{"question":"2. We can use LB instruction to load a signed byte into a register and cast the signed byte to a signed word.",
+"answers":{
+            "a":"True",
+            "b":"False"
+          },
+"correctAnswer":"a"}
+
+]
